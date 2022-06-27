@@ -1,1 +1,1 @@
-# GroupProjectMachLearning
+# GroupProjectMachineLearning
